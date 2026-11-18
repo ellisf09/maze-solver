@@ -1,7 +1,7 @@
 # Maze Solver
 
-![GitHub License](https://img.shields.io/github/license/ellisf09/Maze-solver)
-![GitHub last commit](https://img.shields.io/github/last-commit/ellisf09/Maze-solver)
+![GitHub License](https://img.shields.io/github/license/ellisf09/Maze-Solver)
+![GitHub last commit](https://img.shields.io/github/last-commit/ellisf09/Maze-Solver)
 
 <img src="https://skillicons.dev/icons?i=py">
 
@@ -15,7 +15,7 @@ A visual maze generator and pathfinding solver built in Python using `tkinter`.
 ## 🚀 Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ellisf09/Maze-Solver
    cd Maze-Solver
    ```
 2. **Run the visualiser:**
